@@ -4,6 +4,9 @@ url: "https://nadprime.github.io"
 baseurl: "" 
 theme: minima
 
+minima:
+  skin: dark   # auto | dark | classic | solarized-dark
+
 # Header navigation
 header_pages:
   - about.md
