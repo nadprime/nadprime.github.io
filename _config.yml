@@ -1,0 +1,18 @@
+title: "nadprime Blog"
+description: "Notes on what I learn — tech, mistakes, and projects."
+url: "https://nadprime.github.io"
+baseurl: "" 
+theme: minima
+
+# Header navigation
+header_pages:
+  - about.md
+  - projects.md
+  - archive.md
+  - contact.md
+  - privacy.md
+
+# Optional: social links
+social_links:
+  github: "https://github.com/nadprime"
+  linkedin: "https://linkedin.com/in/nadprime"
