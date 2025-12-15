@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Projects
 
 ### Personal blog
 - Built with Jekyll and hosted on GitHub Pages.
