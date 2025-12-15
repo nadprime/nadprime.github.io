@@ -1,11 +1,11 @@
-title: "nadprime Blog"
+title: "nadprime"
 description: "Notes on what I learn — tech, mistakes, and projects."
 url: "https://nadprime.github.io"
 baseurl: "" 
 theme: minima
 
 minima:
-  skin: dark   # auto | dark | classic | solarized-dark
+  skin: auto   # auto | dark | classic | solarized-dark
 
 # Header navigation
 header_pages:
